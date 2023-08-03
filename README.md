@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hello there explorer 👋
+
+<img alt="Thumbnails with my projects" src="https://maciekodro.com/images/CanvaCollage400.gif"/>
+
+I work with:
+* web (JavaScript, HTML5, Sass, Angular, Angular Material UI, node.js, npm)
+* DevOps (CI/CD, Git Actions, YAML)
+* Unity (C#)
+* computer vision
+* multimedia (Max, Pure Data)
+
+and more...
+
+### [maciekodro.com](https://maciekodro.com/)
+
 
 <!--
 **maceq687/maceq687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
