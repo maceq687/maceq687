@@ -1,9 +1,9 @@
-### Hello there explorer 👋
+## Hello there, explorer 👋
 
-<img alt="Thumbnails with my projects" src="https://maciekodro.com/images/CanvaCollage400.gif"/>
+<img title="My projects" alt="Thumbnail with my projects" src="CanvaCollage400.gif"/>
 
 I work with:
-* web (JavaScript, HTML5, Sass, Angular, Angular Material UI, node.js, npm)
+* web (JavaScript, HTML5, Sass, Angular, Angular Material UI, Node, npm)
 * DevOps (CI/CD, Git Actions, YAML)
 * Unity (C#)
 * computer vision
