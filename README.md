@@ -3,10 +3,10 @@
 <img title="My projects" alt="Thumbnail with my projects" src="CanvaCollage400.gif"/>
 
 I work with:
-* web (JavaScript, HTML5, Sass, Angular, Angular Material UI, Node, npm)
-* DevOps (CI/CD, Git Actions, YAML)
+* web (JavaScript, HTML5, Sass, Angular, Angular Material UI, Node.js)
+* DevOps (CI/CD, GitHub Actions, YAML, Unix, Bash)
 * Unity (C#)
-* computer vision
+* computer vision (MediaPipe, Kinect)
 * multimedia (Max, Pure Data)
 
 and more...
